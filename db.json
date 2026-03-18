@@ -1,0 +1,22 @@
+{
+  "compte_nepting": [
+    {
+      "uid": "40d3bf3d-3492-4709-9d96-0a1937fb8a9b",
+      "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+      "lien_nepting": "https://",
+	  "id_marchand": "789456",
+	  "id_ilot": "1",
+	  "si_defaut": true,
+	  "si_active": true
+    },
+	{
+      "uid": "ee8105a9-9afb-4e19-95d2-17ae9a126002",
+      "uid_r": "01d268d8-fed9-41dd-9373-19d06059a289",
+      "lien_nepting": "https://",
+	  "id_marchand": "123456",
+	  "id_ilot": "2",
+	  "si_defaut": true,
+	  "si_active": true
+    }
+  ]
+}
